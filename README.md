@@ -10,6 +10,7 @@ Clone this repository and navigate to the directory containing the Main.java fil
 Then, compile and run the program using the following commands in your terminal:
 
 javac Main.java
+
 java Main
 
 Usage
@@ -42,6 +43,3 @@ Exit: Exit the program.
 
 
 
-
-
-ChatGPT can make mistak
